@@ -1,6 +1,6 @@
 {
-    "name": "lig_aplication",
-    "short_name": "lig_aplication",
+    "name": "league_getx",
+    "short_name": "league_getx",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

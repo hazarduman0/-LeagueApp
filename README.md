@@ -1,4 +1,4 @@
-# lig_aplication
+# league_getx
 
 A new Flutter project.
 
